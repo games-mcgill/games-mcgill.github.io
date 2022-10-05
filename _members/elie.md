@@ -19,7 +19,7 @@ teaser: >
 
 
 profile:
-    name: lie Ayoub
+    name: Elie Ayoub
     position: President
     align: right
     image: elie.png
