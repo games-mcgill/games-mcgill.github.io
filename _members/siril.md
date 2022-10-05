@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Faculty
+group: Executive Board
 group_rank: 1
 group_order: 3
 external: false
