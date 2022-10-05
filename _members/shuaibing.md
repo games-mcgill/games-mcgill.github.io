@@ -1,8 +1,9 @@
 ---
 layout: about
-inline: false
+inline: true
 group: Representatives
 group_rank: 2
+group_order: 2
 
 
 title: Shuaibing Jiang

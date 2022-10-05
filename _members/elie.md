@@ -1,6 +1,6 @@
 ---
 layout: about
-inline: false
+inline: true
 group: Executive Board
 group_rank: 1
 group_order: 1

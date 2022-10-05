@@ -1,8 +1,9 @@
 ---
 layout: about
-inline: false
+inline: true
 group: Delegates
 group_rank: 3
+group_order: 1
 
 
 

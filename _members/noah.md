@@ -1,8 +1,9 @@
 ---
 layout: about
-inline: false
+inline: true
 group: Representatives
 group_rank: 2
+group_order: 1
 
 title: Noah LeFrancois
 description: PGSS Representative
