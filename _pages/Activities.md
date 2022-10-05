@@ -1,12 +1,12 @@
 ---
 layout: page
-title: research
-page-title: Research
-permalink: /research/
-description: Highlighted research from the Epidiagnostics Group.
+title: Activities
+page-title: Activities
+permalink: /activities/
+description: Recent events hosted by GAMES.
 nav: true
 nav_order: 3
-display_categories: [cancer diagnostics, cancer biology & biomarker discovery]
+display_categories: [2022, previous years]
 horizontal: false
 ---
 
