@@ -17,7 +17,7 @@ teaser: >
 
 
 profile:
-    name: HSiril Teja Dukkipati
+    name: Siril Teja Dukkipati
     position: Vice President Academic
     align: right
     image: siril.png

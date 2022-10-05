@@ -4,7 +4,7 @@ inline: false
 group: Faculty
 group_rank: 1
 group_order: 2
-external: true
+external: false
 
 
 title: James Anawati
