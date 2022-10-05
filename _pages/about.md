@@ -10,15 +10,15 @@ profile:
   position: <br /> <a href="https://www.mcgill.ca/mecheng/">Department of Mechanical Engineering</a> <br />McGill University
   align: right
   logos: true
-  image: games-logo.png
-  href: '/members/pisanic'
+  image: assets/img/games-logo.png
+  href: 
   address: >
         Office 123<br />
         McConnel Engineering Building<br />
         817 Sherbrooke Street West<br />        
         Montreal, Quebec H3A 0C3 21218    
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
