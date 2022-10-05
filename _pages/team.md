@@ -2,8 +2,8 @@
 layout: page
 permalink: /team.html
 title: team
-page-title: Team
-description: Meet the fabulous members of the GAMES executive committee. Feel free to reach out to them anytime !
+page-title: Meet the Team
+description: Our fabulous members of the GAMES executive committee. <br />Feel free to reach out to them anytime!
 
 nav: true
 nav_order: 2
