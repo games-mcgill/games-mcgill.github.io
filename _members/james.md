@@ -22,7 +22,7 @@ profile:
     image: james.png
     email: james.anawati@mail.mcgill.ca
     phone: 
-    website: 
+    website: https://www.linkedin.com/in/james-anawati-256550187/
     twitter: 
     orcid: 
     address: >
