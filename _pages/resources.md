@@ -27,4 +27,4 @@ horizontal: false
 9. [Scholarships and Student Aid](https://www.mcgill.ca/studentaid/)
 10. [Student Services](https://www.mcgill.ca/studentservices/)
 
-Please feel free to drop by MD123, or message us at games.pgss@mail.mcgill.ca anytime. We would love to talk to you!
+Please feel free to drop by MD123, or message us at [games.pgss@mail.mcgill.ca](mailto:games.pgss@mail.mcgill.ca) anytime. We would love to talk to you!
