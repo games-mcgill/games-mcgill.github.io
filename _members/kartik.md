@@ -4,7 +4,6 @@ inline: true
 group: GEEC Representative
 group_rank: 4
 group_order: 1
-external: false
 
 
 title: Kartik Mangalvedhe
@@ -25,5 +24,10 @@ profile:
     website: 
     twitter: 
     orcid: 
+	address: >
+        Department of Biomedical Engineering<br />
+        Clark 122<br />
+        3400 N Charles St<br />
+        Baltimore , MD 21218
 ---
 
