@@ -13,9 +13,8 @@ lastname: Dukkipati
 
 
 teaser: >
-    Hi, I represent the graduate membership at the department level in their academic matters. I attend various departmental and Faculty meetings and get academic updates to you. Outside of GAMES, I am a PhD1 student at the [MBR Lab](https://www.mcgill.ca/mbr/) working on developing a biomechanical robotic spinal cord. In my free time, I enjoy cycling and [photography](https://www.instagram.com/siril.td/).
-
-
+    Hi, I represent the graduate membership at the department level in their academic matters. I attend various departmental and Faculty meetings and get academic updates to you. Outside of GAMES, I am a PhD1 student at the <a href="https://www.mcgill.ca/mbr/">MBR Lab</a> working on developing a biomechanical robotic spinal cord. In my free time, I enjoy cycling and <a href="https://www.instagram.com/siril.td/">photography</a>.
+	
 profile:
     name: Siril Teja Dukkipati
     position: Vice President Academic
