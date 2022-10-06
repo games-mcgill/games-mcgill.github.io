@@ -7,13 +7,13 @@ subtitle:
 
 profile:
   name: **G**raduate **A**ssociation of **M**echanical **E**ngineering **S**tudents
-  position: <a href="https://www.mcgill.ca/mecheng/">Department of Mechanical Engineering</a> <br />McGill University
+  position: <a href="https://www.mcgill.ca/mecheng/">Department of Mechanical Engineering</a> <br /><a href="https://www.mcgill.ca/">McGill University</a>
   align: right
   logos: true
   image: games.jpg
   href: 
   address: >
-        Office 123<br />
+        <br />Office #123<br />
         McConnel Engineering Building<br />
         817 Sherbrooke Street West<br />        
         Montreal, Quebec H3A 0C3    
@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to the official website of G.A.M.E.S. It is short for Graduate Association of Mechanical Engineering Students at McGill University. We represent all the masters, PhD and post doctoral students in the department at the university level. 
 
-Our Mission
+Our Mission:
 
 - provide representation for the Membership, as appropriate;
 - provide a sense of family to the graduate and postdoctoral researchers working within the Department;
@@ -34,5 +34,5 @@ Our Mission
 - foster a sense of competition, academic, and otherwise, with equivalent organizations outside the Department.
 
 
-Games periodically hosts free social events at Thomson House (Martha Crago Lounge, main floor) for all of our wonderful GAMES members! Each member is welcome to enjoy some food and a beverage on behalf of GAMES. Come spend some time with your fellow Mechies. Join us on social media to stay updated.
+Games periodically hosts free social events at MD267 and [Thomson House](http://thomsonhouse.ca/home) for all of our wonderful GAMES members! Each member is welcome to enjoy some food and a beverage on behalf of GAMES. Come spend some time with your fellow Mechies. Join us on social media to stay updated.
 
