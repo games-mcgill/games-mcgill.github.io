@@ -10,7 +10,7 @@ description: PGSS Representative
 lastname: LeFrancoi
 
 teaser: >
-    Masters student working on diagnostic techniques for high-temperature heat transfer fluids in renewable energy systems.
+    Hi, I represent all the graduate students in the department at the PGSS meetings along with Shuaibing. I am a Masters student studying the application of non-invasive temperature and velocity measurement techniques to study coupled radiation-convection heat transfer in molten salts.
 
 profile:
     name: Noah LeFrancois
@@ -19,7 +19,7 @@ profile:
     image: noah.png
     role: 
     orcid: 
-    website: 
+    website: https://www.linkedin.com/in/noah-lefrancois/
     email: noah.lefrancois@mail.mcgill.ca
     github: 
     address: >

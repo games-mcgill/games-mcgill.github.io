@@ -21,6 +21,7 @@ profile:
     align: right
     image: kartik.png
     role: 
+	website: https://www.linkedin.com/in/kartik-mangalvedhe-616a9083/
     email: kartik.mangalvedhe@mail.mcgill.ca
     github: 
     orcid: 

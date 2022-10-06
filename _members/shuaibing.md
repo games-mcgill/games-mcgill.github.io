@@ -11,7 +11,7 @@ description: PGSS Representative
 lastname: Jiang
 
 teaser: >
-    The research of Prof. Jianyu Li's group is interdisciplinary in nature, focusing on the interface between Mechanics, Materials and Biomedical Engineering.  
+    Hi, I represent all the graduate students in the department at the PGSS meetings along with Noah. My research focus is interdisciplinary in nature, focusing on the interface between Mechanics, Materials and Biomedical Engineering.  
 
 profile:
     name: Shuaibing Jiang
@@ -19,7 +19,7 @@ profile:
     align: right
     image: shuaibing.png
     role: 
-    website: 
+    website: https://www.linkedin.com/in/shuaibing-jiang-76296a243/
     email: shuaibing.jiang@mail.mcgill.ca
     phone: 
     twitter: 

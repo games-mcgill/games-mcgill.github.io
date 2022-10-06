@@ -13,7 +13,7 @@ lastname: Li
 
 
 teaser: >
-    The research of Prof. Jianyu Li's group is interdisciplinary in nature, focusing on the interface between Mechanics, Materials and Biomedical Engineering. 
+    Hi, I represent all the teaching assistants in the department at the AGESM meetings. My research is the development of hydrogel bioadhesives for intervertebral disc repair and regeneration. 
 
 profile:
     name: Xuan Li
@@ -21,6 +21,7 @@ profile:
     align: right
     image: xuan.png
     role: 
+	website: https://www.linkedin.com/in/xuan-li-4b32a7158/
     email: xuan.li3@mail.mcgill.ca
     github: 
     orcid: 
