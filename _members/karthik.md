@@ -24,9 +24,5 @@ profile:
     email: kartik.mangalvedhe@mail.mcgill.ca
     github: 
     orcid: 
-    address: >
-        Department of Biomedical Engineering<br />
-        Clark 122<br />
-        3400 N Charles St<br />
-        Baltimore , MD 21218
+    address: 
 ---
