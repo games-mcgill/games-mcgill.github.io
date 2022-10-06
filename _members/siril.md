@@ -23,7 +23,7 @@ profile:
     image: siril.png
     email: siril.dukkipati@mail.mcgill.ca
     website: https://www.siril.me 
-    twitter: https://twitter.com/sirilteja
+    twitter: 
     orcid:
     address: >
         Office 163<br />
