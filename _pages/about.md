@@ -6,7 +6,7 @@ permalink: /
 subtitle:
 
 profile:
-  name: **G**raduate **A**ssociation of **M**echanical **E**ngineering **S**tudents
+  name: Graduate Association of Mechanical Engineering Students
   position: <a href="https://www.mcgill.ca/mecheng/">Department of Mechanical Engineering</a> <br /><a href="https://www.mcgill.ca/">McGill University</a>
   align: right
   logos: true
