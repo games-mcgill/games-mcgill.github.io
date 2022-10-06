@@ -24,5 +24,4 @@ profile:
     email: kartik.mangalvedhe@mail.mcgill.ca
     github: 
     orcid: 
-    address: 
 ---
