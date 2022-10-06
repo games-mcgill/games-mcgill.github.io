@@ -13,7 +13,7 @@ lastname: Dukkipati
 
 
 teaser: >
-    Hi, I represent the graduate membership at the department level in their academic matters. I attend various departmental and Faculty meetings and get academic updates to you. Outside of GAMES, I am a PhD student working on developing a biomechanical robotic spinal cord. My research involves study of human spine under different physiological loading conditions. In my free time, I enjoy cycling and photography.
+    Hi, I represent the graduate membership at the department level in their academic matters. I attend various departmental and Faculty meetings and get academic updates to you. Outside of GAMES, I am a PhD1 student at the [MBR Lab](https://www.mcgill.ca/mbr/) working on developing a biomechanical robotic spinal cord. In my free time, I enjoy cycling and [photography](https://www.instagram.com/siril.td/).
 
 
 profile:
