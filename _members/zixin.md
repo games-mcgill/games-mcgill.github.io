@@ -13,8 +13,7 @@ lastname: He
 
 
 teaser: >
-    Zixin He is a biostatistician and bioinformatician with expertise in the design and analysis of high-throughput genomic data.
-
+     I research acoustic optimization for piezoelectric actuators by day, and automatic determination of Excel cell colors by night. I also  research great deals so I can stretch our GAMES budget and methods to delay VP Finance’s graduation.
 
 profile:
     name: Zixin He
@@ -22,7 +21,7 @@ profile:
     align: right
     image: zixin.png
     email: zi.x.he@mail.mcgill.ca
-    website: 
+    website: https://www.linkedin.com/in/zixinhe/
     twitter: 
     orcid: 
     address: >

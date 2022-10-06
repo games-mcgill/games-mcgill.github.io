@@ -13,7 +13,7 @@ lastname: Ayoub
 
 
 teaser: >
-    Master's Thesis candidate at  <a href="https://breakthroughcancer.org/">Controls Lab</a> working on autonomous grasp planning for forestry manipulation.
+    I am a Master's Thesis candidate at the  <a href="https://aerospacemechatronics.lab.mcgill.ca/web/people.html">Aerospace Mechatronics Lab</a> working on CNN-based autonomous grasp planning for forestry operations.
 
 
 
@@ -25,7 +25,7 @@ profile:
     image: elie.png
     email: elie.ayoub@mail.mcgill.ca
     phone: 
-    website: 
+    website: https://www.linkedin.com/in/elie-ayoub/
     twitter: 
     orcid: 
     address: >

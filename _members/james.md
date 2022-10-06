@@ -13,10 +13,7 @@ lastname: Anawati
 
 
 teaser: >
-    Master's Thesis candidate<br /> <a href="https://breakthroughcancer.org/">Controls Lab</a> working on simulation and modelling of bio-inspired indoor airships
-
-
-
+     I am responsible for the administration and communications of the Graduate Association of Mechanical Engineering Students (GAMES) at McGill. Outside of GAMES, I am a Master's Thesis candidate at the <a href="https://aerospacemechatronics.lab.mcgill.ca/web/people.html">Aerospace Mechatronics Lab</a> working on simulation and modelling of bio-inspired indoor airships.
 
 profile:
     name: James Anawati
