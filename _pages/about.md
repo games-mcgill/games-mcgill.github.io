@@ -13,7 +13,7 @@ profile:
   image: games.jpg
   href: 
   address: >
-        <br />Office #123<br />
+        <br />Office 123<br />
         McConnel Engineering Building<br />
         817 Sherbrooke Street West<br />        
         Montreal, Quebec H3A 0C3    
