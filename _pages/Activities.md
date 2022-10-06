@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activities
+title: activities
 page-title: Activities
 permalink: /activities/
 description: Recent events hosted by GAMES.
