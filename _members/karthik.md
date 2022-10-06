@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: true
-group: Delegates
+group: GEEC Representative
 group_rank: 4
 group_order: 1
 
