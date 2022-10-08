@@ -17,7 +17,7 @@ teaser: >
 
 profile:
     name: Zixin He
-    position: Vice President Events & Vice President Finance
+    position: Vice President Finance
     align: right
     image: zixin_f.png
     email: zi.x.he@mail.mcgill.ca
