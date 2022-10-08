@@ -10,7 +10,7 @@ email: games.pgss@mail.mcgill.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>; inspired by <a href="https://github.com/alshedivat/al-folio">al-folio</a> and <a href="https://inbt.jhu.edu/epidiagnostics/">Dr.Pisanic</a>; developed by <a href="https://github.com/siril-teja">siril-teja</a>.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>; inspired by <a href="https://github.com/alshedivat/al-folio">al-folio</a> and <a href="https://inbt.jhu.edu/epidiagnostics/">Dr.Pisanic</a>; developed by our VP Academics <a href="https://github.com/siril-teja">siril-teja</a>.
 keywords: GAMES, McGill, Mechanical Engineering, Mech  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -278,7 +278,7 @@ enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
-enable_navbar_social:       true  # enables displaying social links in the
+enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
