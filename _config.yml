@@ -8,7 +8,7 @@ middle_name:
 last_name: 
 email: games.pgss@mail.mcgill.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  
 footer_text: >
   Developed by <a href="https://github.com/siril-teja">siril-teja</a>.
 keywords: GAMES, McGill, Mechanical Engineering, Mech  # add your own keywords or leave empty
@@ -47,7 +47,7 @@ max_width: 900px
 # Display links to the page with a preview object on social media.
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: /assets/img/team.jpg # The site-wide (default for all links) Open Graph preview image
+og_image: /assets/img/games.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -180,7 +180,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/img/team.jpg # Default open graph image
+      image: /assets/img/games.jpg # Default open graph image
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
 # -----------------------------------------------------------------------------
