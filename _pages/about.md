@@ -10,7 +10,7 @@ profile:
   position: <a href="https://www.mcgill.ca/mecheng/">Department of Mechanical Engineering</a> <br /><a href="https://www.mcgill.ca/">McGill University</a>
   align: right
   logos: true
-  image: games.jpg
+  image: teams.png
   href: 
   address: >
         <br />Office 123<br />
