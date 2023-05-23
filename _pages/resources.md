@@ -2,7 +2,7 @@
 layout: page
 title: resources
 page-title: Resources
-permalink: /resources/
+permalink: /resources
 description: Here are some useful links for the graduate students of the department.
 nav: true
 nav_order: 4

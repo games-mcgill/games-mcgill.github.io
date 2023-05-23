@@ -2,7 +2,7 @@
 layout: page
 title: activities
 page-title: Activities
-permalink: /activities/
+permalink: /activities
 description: Recent events hosted by GAMES.
 nav: true
 nav_order: 3

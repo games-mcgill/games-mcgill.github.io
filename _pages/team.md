@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /team.html
+permalink: /team
 title: team
 page-title: Meet the Team
 description: Our fabulous members of the GAMES executive committee. <br />Feel free to reach out to them anytime!
