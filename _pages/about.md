@@ -9,7 +9,7 @@ profile:
   name: Graduate Association of Mechanical Engineering Students
   position: <a href="https://www.mcgill.ca/mecheng/">Department of Mechanical Engineering</a> <br /><a href="https://www.mcgill.ca/">McGill University</a>
   align: right
-  logos: true
+  logos: false
   image: 
   href: 
   address: >
