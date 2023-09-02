@@ -7,21 +7,21 @@ group_order: 4
 external: false
 
 
-title: Zixin He
+title: Dylan Caverly
 description: Vice President Events
-lastname: He
+lastname: Caverly
 
 
 teaser: >
-     As VP Events, I am responsible for coming up with ways to effectively spend our association members’ money. This is aided by my research: the analysis of commodity price patterns with CamelCamelCamel, RedFlagDeals, StockTrack, and Facebook Marketplace. On the side, I also investigate methods for delaying VP Finance’s graduation. 
+     I am a PhD candidate with the McGill Fluid Dynamics Lab, studying reduced-order models of wakes. I am responsible for organizing monthly coffee/pizza socials, and larger social events!
 
 profile:
-    name: Zixin He
+    name: Dylan Caverly
     position: Vice President Events
     align: right
     image: zixin.png
-    email: zi.x.he@mail.mcgill.ca
-    website: https://www.linkedin.com/in/zixinhe/
+    email: dylan.caverly@mail.mcgill.ca
+    website: 
     twitter: 
     orcid: 
     address: >
