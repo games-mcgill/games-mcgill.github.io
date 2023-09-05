@@ -13,7 +13,7 @@ lastname: Rayner
 
 
 teaser: >
-I am a Master's Thesis Candidate in the MACRObotics Lab and Lab of Biomaterials Engineering working on soft robots made of biomaterials. I am responsible for overseeing the activities of GAMES and advocating for students in our department.
+    I am a Master's Thesis Candidate in the MACRObotics Lab and Lab of Biomaterials Engineering working on soft robots made of biomaterials. I am responsible for overseeing the activities of GAMES and advocating for students in our department.
 
 
 
