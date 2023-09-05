@@ -22,7 +22,7 @@ profile:
     name: Portia Rayner
     position: President
     align: right
-    image: portia.jpeg
+    image: portia.png
     email: portia.rayner@mail.mcgill.ca
     phone: 
     website: https://www.linkedin.com/in/portia-rayner-376689172/?originalSubdomain=ca

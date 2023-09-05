@@ -18,7 +18,7 @@ profile:
     name: Justin Puma
     position: Vice President Finance
     align: right
-    image: justin.jpeg
+    image: justin.png
     email: justin.puma@mail.mcgill.ca
     website: 
     twitter: 

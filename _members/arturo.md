@@ -20,7 +20,7 @@ profile:
     name: Arturo Del Castillo Bernal
     position: Vice President Academic
     align: right
-    image: arturo.jpg
+    image: arturo.png
     email: arturo.delcastillobernal@mail.mcgill.ca
     phone: 
     website: 

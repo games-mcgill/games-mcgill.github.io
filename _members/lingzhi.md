@@ -19,7 +19,7 @@ profile:
     name: Lingzhi Zhang
     position: Vice President Administration
     align: right
-    image: lingzhi.jpeg
+    image: lingzhi.png
     email: lingzhi.zhang@mail.mcgill.ca
     phone: 
     website: 
