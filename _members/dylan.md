@@ -19,7 +19,7 @@ profile:
     name: Dylan Caverly
     position: Vice President Events
     align: right
-    image: 
+    image: dylan.png
     email: dylan.caverly@mail.mcgill.ca
     website: 
     twitter: 
